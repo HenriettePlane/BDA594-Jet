@@ -1,0 +1,3 @@
+- **Name** Jet van Genuchten
+- **Class URL** https://sdsu.instructure.com/courses/162125
+- **My own definition of big data** Big data is data that is too large, changes too fast and has too much variety to be analysed in a classic tool like excel or on a simple notebook.
